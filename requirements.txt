@@ -1,5 +1,4 @@
 PyTelegramBotAPI
-telebot
 user_agent
 requests
 flask
